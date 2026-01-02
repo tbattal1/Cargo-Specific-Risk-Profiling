@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+simpletransformers
+spacy
+bertopic
+scikit-learn
+scikit-multilearn
+tqdm
